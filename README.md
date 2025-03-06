@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at **Tiger Analytics** as **Engineer**
 
-- 🌱 I’m currently learning **Azure, System Design, Azure**
+- 🌱 I’m currently learning **Azure, System Design, DSA**
 
 - 💬 Ask me about **Passionate, Hardworking and Focused**
 
